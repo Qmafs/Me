@@ -1,0 +1,151 @@
+header {
+  background-color:#66BFBF;
+
+}
+
+h1 {
+  background-color:#E4F9F5;
+  font-family: 'Silkscreen', cursive;
+  font-size: 300%;
+  color: #66BFBF;
+  text-align: center;
+
+}
+
+h2 {
+  background-color:#E4F9F5;
+  font-family: 'Silkscreen', cursive;
+  font-size:300 %;
+  color: #66BFBF;
+    
+}
+
+h3 {
+  background-color:#E4F9F5;
+  font-family: 'Silkscreen', cursive;
+  font-size:150%;
+  color: #66BFBF;
+  text-align: center;
+}
+ul {
+  background-color:#66BFBF;
+  font-family: 'Silkscreen', cursive;
+  font-size: 200%;
+  margin: 0%;
+  border: 0px;
+  padding: 0px;
+  justify-content: flex-end;
+
+}
+p{
+  font-family: 'Silkscreen', cursive;
+  font-size: 150%;
+  color: #40514E;
+  padding-left: 300px;
+  padding-right: 300px;
+  text-align: center;
+}
+
+
+body {
+  background-color: #E4F9F5;
+  font-family: monospace;
+  font-family: 'Sacramento',sans-serif; 
+  text-align: center;
+  margin: 0 0 100px 0;
+}
+  
+a {
+  text-decoration: none;
+}
+
+
+.und {
+  text-decoration: underline;
+}
+
+.top-container{
+  position: relative;
+  display: inline-block
+  
+}
+
+.nav ul li {
+  display: inline-block;
+  margin:10px;
+  text-decoration: none;
+  font-size: 150%;
+  font-family: 'Silkscreen', cursive;
+  border-width: 25px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.me {
+  margin-top: 50px;
+  border-radius: 25%;
+}
+
+.btn {
+  color: white;
+  border-style:none;
+  border-radius: 8px;
+  font-size: 80%;
+  font-family: 'Silkscreen', cursive;
+  background-color:#66BFBF;
+  transition-duration: 0.4s; 
+}
+
+.btn:hover {
+  background-color: white;
+  color: #66BFBF;
+}
+
+.btn2 {
+  color: white;
+  border-style:none;
+  border-radius: 8px;
+  font-size: 23px;
+  font-family: 'Silkscreen', cursive;
+  background-color:#66BFBF;
+  transition-duration: 0.4s; 
+
+}
+
+.btn2:hover {
+  background-color: white;
+  color: #66BFBF;
+}
+
+.links {
+  margin 0 20 0 20;
+}
+
+.flexbox-container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 100px; 
+
+
+}
+
+.container-1 {
+  margin: 0%;
+  padding: 0%;
+  border: 0;
+  width: auto;
+  height:auto;
+}
+
+.container-2 {
+  margin: 0%;
+  padding: 0%;
+  border: 0;
+  width: auto;
+  height:auto;
+}
+
+.projectp {
+  padding-left: 50px;
+  padding-right: 50px;
+}
